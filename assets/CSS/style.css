@@ -19,6 +19,7 @@ h1, h2 {
 #logo {
     float: left;
     font-size: 280%;
+    margin-left: 40px;
 }
 /* navigation links */
 #menu {
@@ -89,3 +90,24 @@ h1, h2 {
     right: 110px;
     position: absolute;
 }
+ /* our services */
+ #our-services {
+    height: 700px;
+ }
+ #left-about {
+    padding-top: 40px;
+    width: 40%;
+    float: left;
+    background-color: rgb(0, 174, 255);
+ }
+ #right-about {
+    padding-top: 40px;
+    width: 40%;
+    float: right;
+    background-color: rgba(0, 128, 0, 0.452);
+ }
+ #center-about {
+    width: 40%;
+    margin: 0 auto;
+    background-color: rgb(175, 99, 156);
+ }

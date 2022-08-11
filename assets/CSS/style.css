@@ -91,17 +91,18 @@ h1, h2 {
     position: absolute;
 }
  /* our services */
+
  #our-services {
-    height: 500px;
+    height: 600px;
  }
  #left-about {
     padding-top: 30px;
-    width: 60%;
+    width: 25%;
     float: left;
  }
  #right-about {
     padding-top: 30px;
-    width: 60%;
+    width: 25%;
     float: right;
  }
  #center-about {
@@ -133,5 +134,22 @@ h1, h2 {
   .right-about-heading p {
     text-align: right;
   }
+  #welcome {
+    text-align: center;
+    font-size: 300%;
+    margin: 30px 0;
+  }
+  #circle-container {
+    width: 550px;
+    height: 800px;
+    padding: 30px;
+    border-width: 1px;
+    border-radius: 100%;
+    margin: 0 auto;
+  }
+  #circle-cover-bg {
+    background: url('../images/image\ 2.JPG') no-repeat center center;
+    height: 100%;
+    border-radius: 100%;
+  }
   
-

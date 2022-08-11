@@ -43,3 +43,30 @@ h1, h2 {
 .active{ 
     border-bottom: 1px solid blue;
 }
+/* bg image */
+#hero-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background-image: url('../images/Hero\ image.webp');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+@keyframes hero-zoom {
+    from {
+        transform: scale(1);
+    }
+    to {
+      transform: scale(1.1);
+    }
+}
+

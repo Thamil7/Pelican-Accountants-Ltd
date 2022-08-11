@@ -14,7 +14,7 @@ h1, h2 {
     font-family: Staatliches, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: #145a32;
+    color: #3a3a3a;
 }
 #logo {
     float: left;
@@ -49,6 +49,9 @@ h1, h2 {
     width: 100%;
     overflow: hidden;
 }
+#cover-text, #cover-text h2 {
+      color: #3a3a3a;
+}
 #hero-image {
     height: 600px;
     width: 100%;
@@ -69,4 +72,20 @@ h1, h2 {
       transform: scale(1.1);
     }
 }
+#cover-text {
+    font-size: 190%;
+    font-family: Lato, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
 
+    width: 600px;
+    height: 200px;
+
+    padding-top: 50px;
+    padding-left: 20px;
+
+    background-color: hsla(146, 74%, 32%, 0.452), 109,107,.5;
+    bottom: 130px;
+    right: 110px;
+    position: absolute;
+}

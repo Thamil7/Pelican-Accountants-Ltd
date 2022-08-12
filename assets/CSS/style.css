@@ -119,14 +119,14 @@ h1, h2 {
     float: right;
     line-height: 20px;
     clear: both;
-    margin-bottom: 50px;
+    margin-bottom: 60px;
  }
  .right-about-heading {
     width:70%;
     float: left;
     line-height: 20px;
     clear: both;
-    margin-bottom: 50px;
+    margin-bottom: 60px;
  }
   .right-about-heading h2 {
     text-align: right;
@@ -151,5 +151,22 @@ h1, h2 {
     background: url('../images/image\ 2.JPG') no-repeat center center;
     height: 100%;
     border-radius: 100%;
+  }
+  #partners {
+    background-image: url('../images/pelican.png');
+    height: 150px;
+    width: 150%;
+    background-size: cover;
+    overflow: hidden;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  #logos {
+    background-image: url('../images/Partners.JPG');
+    height: 190px;
+    width: 150%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    background-size: 30%;
   }
   

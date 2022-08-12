@@ -171,6 +171,21 @@ h1, h2 {
     text-align: center;
     border: 2px solid white;
   }
+  footer {
+    height: 160px;
+  }
+  .social-medias {
+    text-align: left;
+  }
+  .social-medias > li {
+    display: inline;
+  }
+  .social-medias i {
+    font-size: 180%;
+    margin: 0.5%;
+    padding: 2%;
+    color: #3a3a3a;
+  }
   /* Media Queries */
 
   /* For larger to medium screens size from 1200px wide and down */

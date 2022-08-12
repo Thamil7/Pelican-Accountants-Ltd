@@ -186,6 +186,18 @@ h1, h2 {
     padding: 2%;
     color: #3a3a3a;
   }
+
+.aboutus-section {
+  float: left;
+  font-size: 140%;
+  margin-left: 40px;
+}
+#services-image {
+  height: 10px;
+  width: 80%;
+  background-image: url('../images/corporate-finance.webp') no-repeat;
+
+}
   /* Media Queries */
 
   /* For larger to medium screens size from 1200px wide and down */

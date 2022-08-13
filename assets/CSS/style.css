@@ -140,7 +140,7 @@ h1, h2 {
     margin: 30px 0;
   }
   #circle-container {
-    width: 550px;
+    width: 750px;
     height: 800px;
     padding: 30px;
     border-width: 1px;
@@ -186,18 +186,20 @@ h1, h2 {
     padding: 2%;
     color: #3a3a3a;
   }
+  .aboutus-section {
+    font-size: 100%;
+    letter-spacing: 3px;
 
-.aboutus-section {
-  float: left;
-  font-size: 140%;
-  margin-left: 40px;
-}
-#services-image {
-  height: 10px;
-  width: 80%;
-  background-image: url('../images/corporate-finance.webp') no-repeat;
+    width: 800px;
+    height: 200px;
 
-}
+    padding-top: 150px;
+    padding-left: 20px;
+
+    bottom: 130px;
+    right: 550px;
+  }
+
   /* Media Queries */
 
   /* For larger to medium screens size from 1200px wide and down */
@@ -207,6 +209,7 @@ h1, h2 {
         height: 1200px;
         margin: 0 auto;
       }
+    
       #welcome {
         padding: 30px 0;
         margin: 0;

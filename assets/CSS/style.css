@@ -140,8 +140,8 @@ h1, h2 {
     margin: 30px 0;
   }
   #circle-container {
-    width: 750px;
-    height: 800px;
+    width: 700px;
+    height: 750px;
     padding: 30px;
     border-width: 1px;
     border-radius: 100%;
@@ -165,7 +165,7 @@ h1, h2 {
   #contact-info div {
     color: #3a3a3a;
     width: 20%;
-    height: 300px;
+    /* height: 300px; */
     float: left;
     padding: 30px 0 0 10px;
     text-align: center;
@@ -186,22 +186,35 @@ h1, h2 {
     padding: 2%;
     color: #3a3a3a;
   }
+  .aboutus-container {
+    width: 100%;
+    display:flex;
+    align-items:center;
+    justify-content: space-between;
+  }
   .aboutus-section {
     font-size: 100%;
     letter-spacing: 3px;
-
     width: 800px;
-    height: 200px;
+    padding-left: 20px;
+    /* height: 650px; */
+    background-color: lightcyan;
+  }
+  .contactus-section {
+    font-size: 100%;
+    letter-spacing: 3px;
 
+    /* width: 800px; */
+    height: 650px;
     padding-top: 150px;
     padding-left: 20px;
-
     bottom: 130px;
     right: 550px;
+    background-image: url('../images/Contact\ us.webp');
+    /* background-repeat: no-repeat; */
+     background-size:  100vw;
   }
-
   /* Media Queries */
-
   /* For larger to medium screens size from 1200px wide and down */
   @media screen and (max-width: 1200px) {
       #our-services {
@@ -257,4 +270,23 @@ h1, h2 {
         text-align: center;
         padding: 0 20px;
       }
+      #circle-container {
+        height: 200px;
+        width: 200px;
+      }
+      .aboutus-container {
+        flex-wrap: wrap;
+        justify-content: center;
+      }  
 }   
+@media screen and (max-width:550px) {
+   body {
+    font-size: 18px;
+    width: 200%;
+   }
+   .aboutus-container img {
+    width: 100%;
+   }
+}
+  
+

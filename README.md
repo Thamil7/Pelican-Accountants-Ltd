@@ -12,6 +12,8 @@ Anyone who is looking for an accountancy services such bookkeeping, vat, payroll
 # Features
 Main aim is to create a neat easy to access and useful website for clients using perfect images and appropriate colors.
 ## Colors: 
+I created color palette using [Coolers].
+Mainly I used light colors to make it easier for customers read. 
 ![Colour Palette](./assets/images/Color%20palette.png)
 
 # Testing

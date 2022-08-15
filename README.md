@@ -10,13 +10,11 @@ The link to the website: https://thamil7.github.io/Pelican-Accountants-Ltd/
 # Audience:
 Anyone who is looking for an accountancy services such bookkeeping, vat, payroll, limited and sole traders accounts and auditing.
 # Goal:
-
-Main aim is to create a neat easy to access and useful website for clients using perfect images and appropriate colors.
+Main aim is to create a neat easy to access and useful website for clients
+using perfect images and appropriate colors.
 ## Colors: 
 I created color palette using [Coolers].
 Mainly I used light colors to make it easier for customers read. 
-![image](https://user-images.githubusercontent.com/106749935/184713829-c5d24f94-3c3b-4a91-939f-fe83443f4bed.png)
-
 ![Colour Palette](./assets/images/Color%20palette.png)
 
 ## Typography:
@@ -29,7 +27,10 @@ I researched and used images that appropriate for the wesbite's content. I belie
 ### Features:
 ## Navigation Bar:
 This website consist of three pages, i have created navigation bar to make it easier for the potential clients to read the information across the pages easily.
-![image](https://user-images.githubusercontent.com/106749935/184713767-874d118c-2cf2-4758-851c-68bb4d561729.png)
+
+![image](https://user-images.githubusercontent.com/106749935/184714028-11505617-5b8d-4583-b62c-ffdae8218962.png)
+## Home Page:
+![image](https://user-images.githubusercontent.com/106749935/184714348-c03caff3-ffa8-4624-b71d-8b321502354d.png)
 
 
 # Testing

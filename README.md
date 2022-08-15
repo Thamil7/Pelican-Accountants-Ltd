@@ -115,10 +115,14 @@ I am aware that my commit messages are not the best, but in the future i will im
 - 
 # Credits
 Images and content were taken from the following links:
+
 1) https://www.bbkca.com/
 2) http://eliteaccountants.co.uk/
 3) https://www.shutterstock.com/search/chartered-accountant
-4)
+4) https://www.istockphoto.com/vector/corporate-finance-and-accounting-related-words-word-cloud-gm984606802-267179852
 5) https://www.123rf.com/stock-photo/accounting_background.html
+6) https://www.corvusinsurance.com/blog/in-the-binoculars-mike-karbassi-head-of-cyber-underwriting
+7) https://www.datarobot.com/blog/gartner-key-trends-of-modern-data-quality-tools/
+8) https://online.hbs.edu/blog/post/how-to-learn-accounting
 
 

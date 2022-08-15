@@ -106,7 +106,21 @@ I am aware that my commit messages are not the best, but in the future i will im
 2) CSS
 
 
-# Deployment
+## Deployment:
+
+The development environment used for this project was GitPod. To track the development stage and handle version control regular commits and pushes to GitHub has been conducted. The GitPod environment was created using a template provided by Code Institute.
+
+The live version of the project is deployed at GitHub pages.
+
+The procedure for deployment followed the "Creating your site" steps provided in [GitHub Docs.](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
+
+1. Log into GitHub.
+2. Locate the GitHub Repository that will be deployed.
+3. At the top of the repository select the Settings.
+4. Scroll down the Settings page to the 'Pages' section.
+5. At the ”Source” section choose ”main” as Branch and root as folder and click ”Save”
+6. The website will deploy and the pages refreshes to provide the live link to the project.
+
 
 ## Content 
 

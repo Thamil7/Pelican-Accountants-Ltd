@@ -12,7 +12,7 @@ Anyone who is looking for an accountancy services such bookkeeping, vat, payroll
 # Features
 Main aim is to create a neat easy to access and useful website for clients using perfect images and appropriate colors.
 ## Colors: 
-https://coolors.co/3a3a3a-fbfbfb-3498db-158e4a-b4dbdf
+![Colour Palette](./assets/images/Color%20palette.png)
 
 # Testing
 # Bugs

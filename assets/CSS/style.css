@@ -279,7 +279,7 @@ h1, h2 {
         justify-content: center;
       }  
 }   
-@media screen and (max-width:550px) {
+@media screen and (max-width: 550px) {
    body {
     font-size: 18px;
     width: 200%;

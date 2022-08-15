@@ -85,6 +85,7 @@ h1, h2 {
     padding-top: 50px;
     padding-left: 20px;
 
+    background-color: hsla(146, 74%, 32%, 0.452);
     bottom: 130px;
     right: 110px;
     position: absolute;
@@ -194,7 +195,7 @@ h1, h2 {
   .aboutus-section {
     font-size: 100%;
     letter-spacing: 3px;
-    width: 800px;
+    width: 900px;
     padding-left: 20px;
     /* height: 650px; */
     background-color: lightcyan;

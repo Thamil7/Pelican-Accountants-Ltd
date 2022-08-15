@@ -107,7 +107,18 @@ I am aware that my commit messages are not the best, but in the future i will im
 
 
 # Deployment
+
+## Content 
+
+- The design of the project is inspired by Code Institutes ”Love Running” project and used some of the codes from this website.
+- The icons were taken from [Font Awesome](https://fontawesome.com/)
+- 
 # Credits
-## Content
-## Media
-https://fontawesome.com/icons/palette?s=solid
+Images and content were taken from the following links:
+1) https://www.bbkca.com/
+2) http://eliteaccountants.co.uk/
+3) https://www.shutterstock.com/search/chartered-accountant
+4)
+5) https://www.123rf.com/stock-photo/accounting_background.html
+
+

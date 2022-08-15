@@ -85,7 +85,7 @@ h1, h2 {
     padding-top: 50px;
     padding-left: 20px;
 
-    background-color: hsla(146, 74%, 32%, 0.452);
+    
     bottom: 130px;
     right: 110px;
     position: absolute;
@@ -214,6 +214,7 @@ h1, h2 {
     /* background-repeat: no-repeat; */
      background-size:  100vw;
   }
+
   /* Media Queries */
   /* For larger to medium screens size from 1200px wide and down */
   @media screen and (max-width: 1200px) {

@@ -139,4 +139,6 @@ Images and content were taken from the following links:
 7) https://www.datarobot.com/blog/gartner-key-trends-of-modern-data-quality-tools/
 8) https://online.hbs.edu/blog/post/how-to-learn-accounting
 
+The Walkthrough project "Love Running" has provided inspiration and knowledge.
 
+Thank you.

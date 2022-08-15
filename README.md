@@ -9,12 +9,19 @@ The link to the website: https://thamil7.github.io/Pelican-Accountants-Ltd/
 
 # Audience:
 Anyone who is looking for an accountancy services such bookkeeping, vat, payroll, limited and sole traders accounts and auditing.
-# Features
+# Features:
+
 Main aim is to create a neat easy to access and useful website for clients using perfect images and appropriate colors.
 ## Colors: 
 I created color palette using [Coolers].
 Mainly I used light colors to make it easier for customers read. 
 ![Colour Palette](./assets/images/Color%20palette.png)
+
+## Typography:
+I imported main fonts from [Google font] ('https://fonts.googleapis.com/css2?family=Lato&family=Staatliches&display=swap)
+Also used Montserrat, Arial, Helvetica and sans-serif. These fonts will be appealing for the customers to read.
+
+## Images:
 
 # Testing
 # Bugs

@@ -22,7 +22,7 @@ I imported main fonts from [Google font] ('https://fonts.googleapis.com/css2?fam
 Also used Montserrat, Arial, Helvetica and sans-serif. These fonts will be appealing for the customers to read.
 
 ## Images:
-
+I researched and used images that appropriate for the wesbite's content. I believe images plays major role in persuading clients to read further.
 # Testing
 # Bugs
 

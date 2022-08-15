@@ -1,4 +1,5 @@
 # Pelican-Accountants-Ltd
+![image](https://user-images.githubusercontent.com/106749935/184704069-54a77e80-aa1d-4a26-be1e-4344151efb7c.png)
 
 # The purpose of this project:
 This website was designed to provide accounting services to wide range of clients from individuals and partnerships, to small and medium-sized businesses and larger organisations. 

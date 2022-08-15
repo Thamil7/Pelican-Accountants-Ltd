@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato&family=Staatliches&display=swap');
 * {
-    margin: 1.5;
+    margin: 1.5px;
     padding: 0;
     border: none;
 }
@@ -85,7 +85,7 @@ h1, h2 {
     padding-top: 50px;
     padding-left: 20px;
 
-    background-color: hsla(146, 74%, 32%, 0.452), 109,107,.5;
+    background-color: rgba(5, 107, 5, 0.479);
     bottom: 130px;
     right: 110px;
     position: absolute;
@@ -111,8 +111,8 @@ h1, h2 {
  }
  hr {
     border-top: 4px solid #3a3a3a;
-    width: 100%
-    margin 6px 0;
+    width: 100%;
+    margin: 6px 0;
  }
  .left-about-heading {
     width:70%;

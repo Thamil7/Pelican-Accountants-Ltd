@@ -31,7 +31,16 @@ This website consist of three pages, i have created navigation bar to make it ea
 ![image](https://user-images.githubusercontent.com/106749935/184714028-11505617-5b8d-4583-b62c-ffdae8218962.png)
 ## Home Page:
 ![image](https://user-images.githubusercontent.com/106749935/184714348-c03caff3-ffa8-4624-b71d-8b321502354d.png)
-
+This is the
+![image](https://user-images.githubusercontent.com/106749935/184714512-ea2b151a-a70d-495f-a916-47887fa58093.png)
+List of services we provide
+![image](https://user-images.githubusercontent.com/106749935/184714624-f7563293-8560-43d8-ae28-915c57e1a4d5.png)
+Footer
+![image](https://user-images.githubusercontent.com/106749935/184714698-3d99b8e9-9d00-4460-b0cc-8ec4d54f71e7.png)
+About us:
+![image](https://user-images.githubusercontent.com/106749935/184714797-539b1ebd-de2a-48f1-9fea-d0bbe42fa338.png)
+Contact us:
+![image](https://user-images.githubusercontent.com/106749935/184714927-1e58f8ff-1caf-405d-8b82-0a2635e4db46.png)
 
 # Testing
 # Bugs

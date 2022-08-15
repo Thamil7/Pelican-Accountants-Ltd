@@ -99,7 +99,12 @@ I am aware that my commit messages are not the best, but in the future i will im
 
 
 ### CSS
-  - No errors were returned when passing through the official [(Jigsaw validator)](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fpelikantapeten.github.io%2Fp1-nacka-tomato-society%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+  - No errors were returned when passing through the official [(Jigsaw validator)](https://jigsaw.w3.org/css-validator/validator?)
+  
+## Main Languages Used:
+1) HTML
+2) CSS
+
 
 # Deployment
 # Credits

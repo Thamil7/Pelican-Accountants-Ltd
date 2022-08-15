@@ -99,7 +99,10 @@ I am aware that my commit messages are not the best, but in the future i will im
 
 
 ### CSS
-  - No errors were returned when passing through the official [(Jigsaw validator)](https://jigsaw.w3.org/css-validator/validator?)
+  - No errors were found when passing through the official [(Jigsaw validator)](https://jigsaw.w3.org/css-validator/validator?)
+
+![image](https://user-images.githubusercontent.com/106749935/184733420-b685e614-199d-4836-955d-6e2ccd341999.png)
+
   
 ## Main Languages Used:
 1) HTML
